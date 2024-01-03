@@ -6,6 +6,7 @@ In this project i have executed different SQL queries to analyze the data.
 Technologies used:
 
 1)SQL
+
 2)Data base management System and tool:Postrage SQL and PgAdmin4
 
 Schema-Music Store Database
