@@ -1,6 +1,7 @@
 # Data-Analysis-of-Music-Store-By-using-SQL
 Here I am Sharing Data analysis By using SQL project.This project is for begineer which helps to learn how to analyze musical database.I have examine the data using SQL and helps the music store with its growth and buinsess
 In this project i have executed different SQL queries to analyze the data.
+
 Technologies used:
 1)SQL
 2)Data base management System and tool:Postrage SQL and PgAdmin4
