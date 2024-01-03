@@ -10,6 +10,8 @@ Technologies used:
 2)Data base management System and tool:Postrage SQL and PgAdmin4
 
 Schema-Music Store Database
+
+
 ![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/Khose07/Data-Analysis-of-Music-Store-By-using-SQL/assets/147912963/7fb40d0f-9b17-4eb1-80ed-c00e19fa3e29)
 
 
